@@ -1,0 +1,16 @@
+body {
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(231, 234, 243);
+  font-family: Times New Roman, sans-serif;
+  font-size: 20px;
+}
+
+h1{
+  align-items: center;
+  text-align: center;
+}
+
+.mood-image {
+  width: 500px;
+}
